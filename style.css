@@ -12,3 +12,7 @@ body {
     cursor: pointer;
     border: solid;
 }
+
+button {
+    cursor: pointer;
+}
